@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kenny/CLionProjects/solitairePrime/Card.cpp
+iostream
+-
+Card.h
+C:/Users/kenny/CLionProjects/solitairePrime/Card.h
+
+C:/Users/kenny/CLionProjects/solitairePrime/Card.h
+string
+-
+
+C:/Users/kenny/CLionProjects/solitairePrime/Deck.cpp
+iostream
+-
+Deck.h
+C:/Users/kenny/CLionProjects/solitairePrime/Deck.h
+
+C:/Users/kenny/CLionProjects/solitairePrime/Deck.h
+Card.h
+C:/Users/kenny/CLionProjects/solitairePrime/Card.h
+
